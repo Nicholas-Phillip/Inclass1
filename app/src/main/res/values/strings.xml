@@ -3,4 +3,6 @@
     <string name="button_1">Button</string>
     <string name="textview_1">TextView</string>
     <string name="imageview_2">TODO</string>
+    <string name="imageview">TODO</string>
+    <string name="textview_2">Welcome To My Android App</string>
 </resources>
